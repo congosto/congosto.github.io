@@ -1,0 +1,49 @@
+source,target,value
+andalucia,local,4.16
+andalucia,type unknow,0.41
+andalucia,urban,2.04
+aragon,local,1.67
+aragon,type unknow,0.10
+asturias,local,0.69
+asturias,type unknow,0.52
+baleares,local,0.64
+baleares,type unknow,0.07
+canarias,local,0.88
+canarias,type unknow,0.22
+cantabria,local,0.32
+cantabria,type unknow,0.15
+castilla y leon,local,1.58
+castilla y leon,urban,1.06
+castilla-la mancha,local,0.85
+cataluna,local,3.57
+cataluna,type unknow,0.86
+cataluna,urban,5.58
+ceuta y melilla,local,0.06
+comunidad valenciana,local,1.82
+comunidad valenciana,type unknow,0.15
+comunidad valenciana,urban,2.22
+extremadura,local,0.82
+extremadura,type unknow,0.11
+galicia,local,2.03
+galicia,type unknow,0.40
+la rioja,local, 0.21
+madrid,local,1.51
+madrid,type unknow,0.73
+madrid,urban,14.49
+murcia,local,1.42
+murcia,type unknow,0.05
+navarra,local,0.43
+navarra,type unknow,0.07
+pais vasco,local,0.58
+pais vasco,type unknow,0.02
+pais vasco,urban,0.56
+region unknow,type unknow,46.92
+local,men,12.56
+local,gender unknow,5.71
+local,women,4.98
+type unknow,men,18.77
+type unknow,gender unknow,20.35
+type unknow,women,11.69
+urban,men,12.56
+urban,gender unknow,6.95
+urban,women,6.44
