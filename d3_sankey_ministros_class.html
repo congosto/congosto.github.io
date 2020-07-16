@@ -30,7 +30,7 @@
 <p id="chart">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-<script src="d3_sankey.js"></script>
+<script src="./d3_sankey.js"></script>
 <script>
 	
 var units = "Widgets";
@@ -60,7 +60,7 @@ var sankey = d3.sankey()
 var path = sankey.link();
 
 // load the data (using the timelyportfolio csv method)
-d3.csv("ministros_class_sankey.csv", function(error, data) {
+d3.csv("./ministros_class_sankey.csv", function(error, data) {
 
   //set up graph in same style as original example but empty
   graph = {"nodes" : [], "links" : []};
