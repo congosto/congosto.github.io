@@ -54,7 +54,7 @@ d3.csv("Guerraenred_follower_profiles_ff.csv", function(error, data) {
     console.log(max)
 
     data.forEach(function(d, i) {
-        d.dateParsed = parseDate(d.date);
+        d.dateParsed = parseDate(d.date)
         d.close = max - i;
     });
 
