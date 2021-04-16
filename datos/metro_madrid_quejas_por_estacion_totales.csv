@@ -1,0 +1,1143 @@
+Latitude;Longitude;Line;Station;Complaint;Num_complainst
+40,43496257;-3,719451604;6;moncloa;Accesos;555
+40,39115667;-3,695054959;6;legazpi;Accesos;531
+40,41127543;-3,708167584;5;la latina;Accesos;419
+40,402066;-3,673860954;6;pacifico;Accesos;401
+40,40850881;-3,700914061;3;lavapies;Accesos;398
+40,44655108;-3,692417814;8;nuevos ministerios;Accesos;348
+40,41680989;-3,703263296;3;sol;Accesos;326
+40,4387009;-3,704894461;7;canal;Accesos;310
+40,38846483;-3,731268776;6;oporto;Accesos;306
+40,42008355;-3,70566668;5;callao;Accesos;304
+40,43803288;-3,67647195;9;avenida de america;Accesos;300
+40,43906103;-3,71374136;7;islas filipinas;Accesos;300
+40,44696838;-3,703872359;6;cuatro caminos;Accesos;284
+40,42598825;-3,70208572;10;tribunal;Accesos;283
+40,41998089;-3,701811088;5;gran via;Accesos;265
+40,42292518;-3,697621571;5;chueca;Accesos;264
+40,45842219;-3,689862385;10;cuzco;Accesos;258
+40,42828317;-3,695024413;5;alonso martinez;Accesos;227
+40,42790393;-3,66921458;6;manuel becerra;Accesos;226
+40,44632219;-3,712296983;7;guzman el bueno;Accesos;211
+40,41502821;-3,669523104;9;sainz de baranda;Accesos;181
+40,42099313;-3,720328287;R;principe pio;Accesos;165
+40,46689497;-3,689135166;9;plaza de castilla;Accesos;161
+40,4693849;-3,638330918;8;mar de cristal;Accesos;156
+40,43294536;-3,672942974;6;diego de leon;Accesos;147
+40,43837479;-3,699255084;7;alonso cano;Accesos;146
+40,43052478;-3,715961816;6;arguelles;Accesos;143
+40,40511968;-3,702681998;3;embajadores;Accesos;141
+40,45647473;-3,712392398;7;francos rodriguez;Accesos;138
+40,42340997;-3,711206492;3;plaza de espana;Accesos;129
+40,38709383;-3,706901013;6;usera;Accesos;115
+40,35008254;-3,831780176;12;alcorcon central;Accesos;115
+40,40259796;-3,711388079;5;piramides;Accesos;114
+40,38459969;-3,718373531;6;plaza eliptica;Accesos;110
+40,43825029;-3,691495504;7;gregorio maranon;Accesos;96
+40,40131345;-3,595982863;9;puerta de arganda;Accesos;96
+40,46799398;-3,64867458;8;pinar del rey;Accesos;93
+40,3969754;-3,774618022;10;colonia jardin;Accesos;90
+40,4315547;-3,679660945;9;nunez de balboa;Accesos;89
+40,41808841;-3,709288075;R;opera;Accesos;87
+40,39537425;-3,678142252;6;mendez alvaro;Accesos;85
+40,45778943;-3,587529856;5;alameda de osuna;Accesos;85
+40,39270021;-3,741000009;6;carpetana;Accesos;84
+40,42661418;-3,650528502;2;la elipa;Accesos;83
+40,47209592;-3,682594013;10;chamartin;Accesos;80
+40,42480536;-3,676858101;4;goya;Accesos;77
+40,44824478;-3,667918658;4;alfonso xiii;Accesos;74
+40,44418666;-3,674823834;4;prosperidad;Accesos;71
+40,44355627;-3,726795075;6;ciudad universitaria;Accesos;70
+40,40696897;-3,670409628;6;conde de casal;Accesos;69
+40,50120067;-3,695209955;10;tres olivos;Accesos;68
+40,39155881;-3,653914345;1;buenos aires;Accesos;63
+40,40884785;-3,692490889;1;atocha;Accesos;62
+40,45582547;-3,656188128;4;arturo soria;Accesos;57
+40,43909238;-3,652004716;7;barrio de la concepcion;Accesos;56
+40,35795351;-3,777833786;11;la fortuna;Accesos;55
+40,44084415;-3,626847452;5;suanzes;Accesos;55
+40,40522132;-3,641813751;9;artilleros;Accesos;54
+40,47576967;-3,582531131;8;barajas;Accesos;52
+40,34542678;-3,81249526;12;puerta del sur;Accesos;49
+40,43298142;-3,607887135;7;las musas;Accesos;49
+40,37769863;-3,791525486;10;cuatro vientos;Accesos;48
+40,4032369;-3,761019693;5;casa de campo;Accesos;47
+40,38562558;-3,760809659;5;aluche;Accesos;46
+40,4114691;-3,661791538;9;estrella;Accesos;46
+40,45748953;-3,676950119;9;colombia;Accesos;45
+40,32167717;-3,864894496;12;pradillo;Accesos;43
+40,43565725;-3,642834065;7;pueblo nuevo;Accesos;42
+40,47686816;-3,662905164;4;manoteras;Accesos;41
+40,47688245;-3,703170088;9;barrio del pilar;Accesos;40
+40,38976976;-3,645225289;1;alto del arenal;Accesos;40
+40,49141701;-3,715865195;9;mirasierra;Accesos;38
+40,32897723;-3,77154457;12;leganes central;Accesos;37
+40,38731499;-3,63951123;1;miguel hernandez;Accesos;37
+40,41234187;-3,70466648;1;tirso de molina;Accesos;37
+40,34153659;-3,693191438;3;san cristobal;Accesos;36
+40,43188961;-3,657582371;5;el carmen;Accesos;35
+40,47536837;-3,652579643;4;hortaleza;Accesos;34
+40,47021658;-3,717704371;7;antonio machado;Accesos;31
+40,4099207;-3,738937778;6;alto de extremadura;Accesos;31
+40,47446805;-3,639582355;4;san lorenzo;Accesos;29
+40,40658715;-3,689379999;1;atocha renfe;Accesos;29
+40,48465763;-3,707522399;9;herrera oria;Accesos;28
+40,28267346;-3,798909375;12;fuenlabrada central;Accesos;27
+40,31179969;-3,722250155;12;juan de la cierva;Accesos;27
+40,3992286;-3,744300367;6;laguna;Accesos;27
+40,38406695;-3,69797452;3;almendrales;Accesos;27
+40,41389578;-3,727241961;6;puerta del angel;Accesos;26
+40,39309596;-3,68864147;6;arganzuela-planetario;Accesos;26
+40,44374396;-3,617004735;5;torre arias;Accesos;26
+40,44426588;-3,678220657;9;cruz del rayo;Accesos;25
+40,46482187;-3,715983801;7;valdezarza;Accesos;25
+40,38690336;-3,723134268;6;opanel;Accesos;25
+40,453468;-3,594013972;5;el capricho;Accesos;25
+40,40509579;-3,745343139;6;lucero;Accesos;25
+40,4284215;-3,633310372;7;garcia noblejas;Accesos;24
+40,42374407;-3,60331266;2;las rosas;Accesos;24
+40,41922043;-3,6949665;2;banco de espana;Accesos;24
+40,42483858;-3,707425685;2;noviciado;Accesos;24
+40,480095;-3,718411265;7;avda. de la ilustracion;Accesos;24
+40,46380536;-3,635600585;4;canillas;Accesos;23
+40,32849815;-3,86354544;12;mostoles central;Accesos;23
+40,43933732;-3,67215776;7;cartagena;Accesos;23
+40,48501196;-3,723053454;7;lacoma;Accesos;22
+40,36006609;-3,593169841;1;valdecarros;Accesos;22
+40,38363333;-3,783925425;10;aviacion espanola;Accesos;21
+40,34968066;-3,821201095;12;parque lisboa;Accesos;20
+40,45427981;-3,703028755;1;estrecho;Accesos;20
+40,55048065;-3,646883392;10;manuel de falla;Accesos;20
+40,45158127;-3,690382074;10;santiago bernabeu;Accesos;20
+40,42417286;-3,68024678;9;principe de vergara;Accesos;20
+40,44643115;-3,719432375;6;metropolitano;Accesos;20
+40,40421032;-3,608865637;9;vicalvaro;Accesos;19
+40,4288498;-3,701148774;4;bilbao;Accesos;19
+40,44942144;-3,608164962;5;canillejas;Accesos;19
+40,42441178;-3,535417769;7;san fernando;Accesos;19
+40,40387025;-3,706652237;5;acacias;Accesos;18
+40,43019861;-3,641060843;7;ascao;Accesos;18
+40,42288945;-3,668599057;6;o'donnell;Accesos;17
+40,41024127;-3,652739772;9;vinateros;Accesos;17
+40,40703245;-3,711057639;5;puerta de toledo;Accesos;17
+40,41776487;-3,52718476;7;henares;Accesos;17
+40,41246409;-3,699375747;1;anton martin;Accesos;16
+40,31862428;-3,709858586;12;el casar;Accesos;16
+40,44191919;-3,701591124;1;rios rosas;Accesos;15
+40,38781938;-3,744881666;5;carabanchel;Accesos;15
+40,53194913;-3,635571009;10;la moraleja;Accesos;15
+40,30366586;-3,447526069;9;arganda del rey;Accesos;15
+40,34589179;-3,849343418;12;parque oeste;Accesos;14
+40,49510213;-3,725899512;7;pitis;Accesos;14
+40,46300073;-3,675802349;9;pio xii;Accesos;14
+40,30992368;-3,734033826;12;getafe central;Accesos;14
+40,3217666;-3,767978436;12;hospital severo ochoa;Accesos;13
+40,3999006;-3,694202157;3;delicias;Accesos;13
+40,38216153;-3,624724522;1;sierra de guadalupe;Accesos;12
+40,41760498;-3,534538705;7;hospital del henares;Accesos;11
+40,37197192;-3,751915969;11;carabanchel alto;Accesos;11
+40,37018557;-3,613471109;1;la gavia;Accesos;11
+40,43357791;-3,647365171;5;quintana;Accesos;11
+40,41641024;-3,735637723;10;lago;Accesos;11
+40,46943109;-3,695884906;9;ventilla;Accesos;11
+40,39553657;-3,664145357;1;nueva numancia;Accesos;11
+40,46055195;-3,698258347;1;tetuan;Accesos;11
+40,47711223;-3,645246667;4;parque de santa maria;Accesos;10
+40,45144195;-3,677384735;9;concha espina;Accesos;10
+40,36421857;-3,75690603;11;la peseta;Accesos;10
+40,32659791;-3,759428423;12;casa del reloj;Accesos;10
+40,43339118;-3,600156651;7;estadio olimpico;Accesos;9
+40,33663272;-3,74018614;12;el carrascal;Accesos;9
+40,4030716;-3,694234731;3;palos de la frontera;Accesos;9
+40,48013418;-3,666771657;4;pinar de chamartin;Accesos;9
+40,35957926;-3,693635297;3;ciudad de los angeles;Accesos;9
+40,2887403;-3,756828055;12;arroyo culebro;Accesos;9
+40,44379;-3,684064551;6;republica argentina;Accesos;9
+40,42361458;-3,639147589;2;la almudena;Accesos;9
+40,54102004;-3,63739262;10;marques de la valdavia;Accesos;9
+40,40381173;-3,60240401;9;san cipriano;Accesos;8
+40,40051048;-3,635122751;9;pavones;Accesos;8
+40,3412242;-3,711990999;3;villaverde alto;Accesos;8
+40,42514595;-3,547931168;7;la rambla;Accesos;8
+40,4202995;-3,686254794;2;retiro;Accesos;8
+40,41838981;-3,678585464;9;ibiza;Accesos;8
+40,37238217;-3,618850589;1;congosto;Accesos;7
+40,38884283;-3,739826651;5;vista alegre;Accesos;7
+40,46441802;-3,695066472;1;valdeacederas;Accesos;7
+40,33474133;-3,752668031;12;julian besteiro;Accesos;7
+40,42798532;-3,625725988;7;simancas;Accesos;7
+40,50832569;-3,669446792;10;las tablas;Accesos;6
+40,42503098;-3,682919606;4;velazquez;Accesos;6
+40,42543239;-3,686637037;4;serrano;Accesos;6
+40,40785623;-3,753116589;10;batan;Accesos;6
+40,41805042;-3,699256783;2;sevilla;Accesos;6
+40,39265787;-3,658685217;1;portazgo;Accesos;6
+40,37502557;-3,69585511;3;hospital 12 de octubre;Accesos;6
+40,43804349;-3,638164095;5;ciudad lineal;Accesos;6
+40,33615557;-3,775876343;12;san nicasio;Accesos;5
+40,4000436;-3,621566682;9;valdebernardo;Accesos;5
+40,36322252;-3,599533893;1;las suertes;Accesos;5
+40,36999055;-3,694177844;3;san fermin-orcasur;Accesos;5
+40,42966004;-3,705684245;4;san bernardo;Accesos;5
+40,35089133;-3,692651338;3;villaverde bajo cruce;Accesos;5
+40,41828551;-3,623514408;2;alsacia;Accesos;5
+40,39335085;-3,723615636;5;urgel;Accesos;4
+40,39735347;-3,715963819;5;marques de vadillo;Accesos;4
+40,46762058;-3,679175086;9;duque de pastrana;Accesos;3
+40,31652217;-3,874715035;12;hospital de mostoles;Accesos;3
+40,46389235;-3,616210057;8;campo de las naciones;Accesos;3
+40,49507987;-3,692833845;10;fuencarral;Accesos;3
+40,34984227;-3,807202285;10;joaquin vilumbrales;Accesos;3
+40,42373097;-3,561193233;7;coslada central;Accesos;3
+40,38438197;-3,751217478;5;eugenia de montijo;Accesos;3
+40,47592185;-3,715830364;7;penagrande;Accesos;3
+40,51553522;-3,662778266;10;ronda de la comunicacion;Accesos;3
+40,28574945;-3,816427073;12;hospital de fuenlabrada;Accesos;3
+40,55441965;-3,635133831;10;baunatal;Accesos;3
+40,39819293;-3,669061709;1;puente de vallecas;Accesos;2
+40,49176011;-3,59325409;8;aeropuerto t4;Accesos;2
+40,43088219;-3,663608751;5;ventas;Accesos;2
+40,32836977;-3,520602745;9;rivas vaciamadrid;Accesos;2
+40,30902581;-3,864026997;12;manuela malasana;Accesos;2
+40,28517162;-3,806326592;12;parque europa;Accesos;2
+40,37959432;-3,621308021;1;villa de vallecas;Accesos;1
+40,43491697;-3,698983459;1;iglesia;Accesos;1
+40,3413421;-3,524799763;9;rivas futura;Accesos;1
+40,45353571;-3,661189841;4;avenida de la paz;Accesos;1
+40,47680812;-3,676377282;1;bambu;Accesos;1
+40,45944241;-3,645820626;4;esperanza;Accesos;1
+40,55037551;-3,623403339;10;reyes catolicos;Accesos;1
+40,39056859;-3,765354365;5;empalme;Accesos;1
+40,37359506;-3,739106229;11;san francisco;Accesos;1
+40,33511806;-3,872188554;12;universidad rey juan carlos;Accesos;1
+40,29680487;-3,837691914;12;loranca;Accesos;1
+40,41680989;-3,703263296;3;sol;Aglomeración;112
+40,42598825;-3,70208572;10;tribunal;Aglomeración;59
+40,46689497;-3,689135166;9;plaza de castilla;Aglomeración;16
+40,41805042;-3,699256783;2;sevilla;Aglomeración;15
+40,40511968;-3,702681998;3;embajadores;Aglomeración;14
+40,402066;-3,673860954;6;pacifico;Aglomeración;13
+40,36006609;-3,593169841;1;valdecarros;Aglomeración;13
+40,43825029;-3,691495504;7;gregorio maranon;Aglomeración;10
+40,41127543;-3,708167584;5;la latina;Aglomeración;9
+40,43496257;-3,719451604;6;moncloa;Aglomeración;9
+40,42099313;-3,720328287;R;principe pio;Aglomeración;8
+40,43052478;-3,715961816;6;arguelles;Aglomeración;8
+40,43294536;-3,672942974;6;diego de leon;Aglomeración;7
+40,41998089;-3,701811088;5;gran via;Aglomeración;7
+40,44655108;-3,692417814;8;nuevos ministerios;Aglomeración;7
+40,42480536;-3,676858101;4;goya;Aglomeración;7
+40,40387025;-3,706652237;5;acacias;Aglomeración;7
+40,41808841;-3,709288075;R;opera;Aglomeración;7
+40,40884785;-3,692490889;1;atocha;Aglomeración;6
+40,42828317;-3,695024413;5;alonso martinez;Aglomeración;6
+40,3992286;-3,744300367;6;laguna;Aglomeración;6
+40,4288498;-3,701148774;4;bilbao;Aglomeración;6
+40,40131345;-3,595982863;9;puerta de arganda;Aglomeración;6
+40,47209592;-3,682594013;10;chamartin;Aglomeración;6
+40,40785623;-3,753116589;10;batan;Aglomeración;6
+40,50120067;-3,695209955;10;tres olivos;Aglomeración;5
+40,43804349;-3,638164095;5;ciudad lineal;Aglomeración;5
+40,39155881;-3,653914345;1;buenos aires;Aglomeración;5
+40,30366586;-3,447526069;9;arganda del rey;Aglomeración;4
+40,42008355;-3,70566668;5;callao;Aglomeración;4
+40,39335085;-3,723615636;5;urgel;Aglomeración;4
+40,43188961;-3,657582371;5;el carmen;Aglomeración;4
+40,46799398;-3,64867458;8;pinar del rey;Aglomeración;4
+40,42374407;-3,60331266;2;las rosas;Aglomeración;4
+40,3413421;-3,524799763;9;rivas futura;Aglomeración;3
+40,4030716;-3,694234731;3;palos de la frontera;Aglomeración;3
+40,45748953;-3,676950119;9;colombia;Aglomeración;3
+40,43491697;-3,698983459;1;iglesia;Aglomeración;3
+40,40850881;-3,700914061;3;lavapies;Aglomeración;3
+40,39553657;-3,664145357;1;nueva numancia;Aglomeración;3
+40,55976347;-3,611465764;10;hospital infanta sofia;Aglomeración;3
+40,41922043;-3,6949665;2;banco de espana;Aglomeración;2
+40,38976976;-3,645225289;1;alto del arenal;Aglomeración;2
+40,39537425;-3,678142252;6;mendez alvaro;Aglomeración;2
+40,38562558;-3,760809659;5;aluche;Aglomeración;2
+40,41234187;-3,70466648;1;tirso de molina;Aglomeración;2
+40,45033211;-3,703317813;1;alvarado;Aglomeración;2
+40,44696838;-3,703872359;6;cuatro caminos;Aglomeración;2
+40,38781938;-3,744881666;5;carabanchel;Aglomeración;2
+40,3412242;-3,711990999;3;villaverde alto;Aglomeración;2
+40,46389235;-3,616210057;8;campo de las naciones;Aglomeración;2
+40,40421032;-3,608865637;9;vicalvaro;Aglomeración;2
+40,40696897;-3,670409628;6;conde de casal;Aglomeración;2
+40,44824478;-3,667918658;4;alfonso xiii;Aglomeración;2
+40,43803288;-3,67647195;9;avenida de america;Aglomeración;1
+40,41502821;-3,669523104;9;sainz de baranda;Aglomeración;1
+40,453468;-3,594013972;5;el capricho;Aglomeración;1
+40,41389578;-3,727241961;6;puerta del angel;Aglomeración;1
+40,4032369;-3,761019693;5;casa de campo;Aglomeración;1
+40,38216153;-3,624724522;1;sierra de guadalupe;Aglomeración;1
+40,45778943;-3,587529856;5;alameda de osuna;Aglomeración;1
+40,44355627;-3,726795075;6;ciudad universitaria;Aglomeración;1
+40,37769863;-3,791525486;10;cuatro vientos;Aglomeración;1
+40,4114691;-3,661791538;9;estrella;Aglomeración;1
+40,34542678;-3,81249526;12;puerta del sur;Aglomeración;1
+40,43565725;-3,642834065;7;pueblo nuevo;Aglomeración;1
+40,43315383;-3,689545132;5;ruben dario;Aglomeración;1
+40,46441802;-3,695066472;1;valdeacederas;Aglomeración;1
+40,47576967;-3,582531131;8;barajas;Aglomeración;1
+40,51553522;-3,662778266;10;ronda de la comunicacion;Aglomeración;1
+40,44655108;-3,692417814;8;nuevos ministerios;Avería;866
+40,40387025;-3,706652237;5;acacias;Avería;576
+40,42828317;-3,695024413;5;alonso martinez;Avería;167
+40,42541534;-3,691010388;4;colon;Avería;131
+40,43088219;-3,663608751;5;ventas;Avería;118
+40,43804349;-3,638164095;5;ciudad lineal;Avería;113
+40,41808841;-3,709288075;R;opera;Avería;106
+40,38846483;-3,731268776;6;oporto;Avería;72
+40,43315383;-3,689545132;5;ruben dario;Avería;65
+40,40884785;-3,692490889;1;atocha;Avería;59
+40,45748953;-3,676950119;9;colombia;Avería;50
+40,45842219;-3,689862385;10;cuzco;Avería;49
+40,42480536;-3,676858101;4;goya;Avería;48
+40,40785623;-3,753116589;10;batan;Avería;44
+40,4000436;-3,621566682;9;valdebernardo;Avería;37
+40,4114691;-3,661791538;9;estrella;Avería;34
+40,41680989;-3,703263296;3;sol;Avería;33
+40,39735347;-3,715963819;5;marques de vadillo;Avería;32
+40,43933732;-3,67215776;7;cartagena;Avería;30
+40,49141701;-3,715865195;9;mirasierra;Avería;29
+40,40131345;-3,595982863;9;puerta de arganda;Avería;27
+40,43294536;-3,672942974;6;diego de leon;Avería;26
+40,42292518;-3,697621571;5;chueca;Avería;25
+40,41805042;-3,699256783;2;sevilla;Avería;25
+40,4032369;-3,761019693;5;casa de campo;Avería;24
+40,41502821;-3,669523104;9;sainz de baranda;Avería;24
+40,43496257;-3,719451604;6;moncloa;Avería;23
+40,42598825;-3,70208572;10;tribunal;Avería;22
+40,41998089;-3,701811088;5;gran via;Avería;21
+40,44942144;-3,608164962;5;canillejas;Avería;19
+40,42966004;-3,705684245;4;san bernardo;Avería;17
+40,48465763;-3,707522399;9;herrera oria;Avería;17
+40,50832569;-3,669446792;10;las tablas;Avería;16
+40,43825029;-3,691495504;7;gregorio maranon;Avería;16
+40,42417286;-3,68024678;9;principe de vergara;Avería;16
+40,39115667;-3,695054959;6;legazpi;Avería;16
+40,402066;-3,673860954;6;pacifico;Avería;15
+40,38562558;-3,760809659;5;aluche;Avería;14
+40,3413421;-3,524799763;9;rivas futura;Avería;13
+40,46689497;-3,689135166;9;plaza de castilla;Avería;13
+40,31901513;-3,477452639;9;la poveda;Avería;13
+40,42340997;-3,711206492;3;plaza de espana;Avería;13
+40,44643115;-3,719432375;6;metropolitano;Avería;13
+40,45778943;-3,587529856;5;alameda de osuna;Avería;13
+40,30366586;-3,447526069;9;arganda del rey;Avería;13
+40,3992286;-3,744300367;6;laguna;Avería;12
+40,36006609;-3,593169841;1;valdecarros;Avería;12
+40,3969754;-3,774618022;10;colonia jardin;Avería;12
+40,43803288;-3,67647195;9;avenida de america;Avería;11
+40,4387009;-3,704894461;7;canal;Avería;11
+40,44696838;-3,703872359;6;cuatro caminos;Avería;10
+40,40850881;-3,700914061;3;lavapies;Avería;10
+40,42131274;-3,707966348;2;santo domingo;Avería;10
+40,4288498;-3,701148774;4;bilbao;Avería;9
+40,45144195;-3,677384735;9;concha espina;Avería;9
+40,42008355;-3,70566668;5;callao;Avería;9
+40,40421032;-3,608865637;9;vicalvaro;Avería;9
+40,44824478;-3,667918658;4;alfonso xiii;Avería;9
+40,41389578;-3,727241961;6;puerta del angel;Avería;9
+40,42790393;-3,66921458;6;manuel becerra;Avería;9
+40,42374407;-3,60331266;2;las rosas;Avería;9
+40,37769863;-3,791525486;10;cuatro vientos;Avería;9
+40,4284215;-3,633310372;7;garcia noblejas;Avería;8
+40,43298142;-3,607887135;7;las musas;Avería;8
+40,42661418;-3,650528502;2;la elipa;Avería;8
+40,32422152;-3,718203887;12;los espartales;Avería;7
+40,43052478;-3,715961816;6;arguelles;Avería;7
+40,40511968;-3,702681998;3;embajadores;Avería;7
+40,43357791;-3,647365171;5;quintana;Avería;6
+40,46055195;-3,698258347;1;tetuan;Avería;6
+40,40696897;-3,670409628;6;conde de casal;Avería;6
+40,42483858;-3,707425685;2;noviciado;Avería;6
+40,43491697;-3,698983459;1;iglesia;Avería;6
+40,42099313;-3,720328287;R;principe pio;Avería;6
+40,4693849;-3,638330918;8;mar de cristal;Avería;5
+40,41127543;-3,708167584;5;la latina;Avería;5
+40,43906103;-3,71374136;7;islas filipinas;Avería;5
+40,47576967;-3,582531131;8;barajas;Avería;5
+40,31179969;-3,722250155;12;juan de la cierva;Avería;5
+40,32836977;-3,520602745;9;rivas vaciamadrid;Avería;5
+40,43565725;-3,642834065;7;pueblo nuevo;Avería;5
+40,49510213;-3,725899512;7;pitis;Avería;5
+40,39265787;-3,658685217;1;portazgo;Avería;5
+40,38976976;-3,645225289;1;alto del arenal;Avería;5
+40,49507987;-3,692833845;10;fuencarral;Avería;5
+40,48501196;-3,723053454;7;lacoma;Avería;5
+40,43837479;-3,699255084;7;alonso cano;Avería;4
+40,43321778;-3,704342027;2;quevedo;Avería;4
+40,47686816;-3,662905164;4;manoteras;Avería;4
+40,55037551;-3,623403339;10;reyes catolicos;Avería;4
+40,2887403;-3,756828055;12;arroyo culebro;Avería;4
+40,50120067;-3,695209955;10;tres olivos;Avería;4
+40,41641024;-3,735637723;10;lago;Avería;4
+40,55441965;-3,635133831;10;baunatal;Avería;4
+40,40381173;-3,60240401;9;san cipriano;Avería;3
+40,47536837;-3,652579643;4;hortaleza;Avería;3
+40,38781938;-3,744881666;5;carabanchel;Avería;3
+40,44632219;-3,712296983;7;guzman el bueno;Avería;3
+40,39553657;-3,664145357;1;nueva numancia;Avería;3
+40,47446805;-3,639582355;4;san lorenzo;Avería;3
+40,34542678;-3,81249526;12;puerta del sur;Avería;3
+40,40703245;-3,711057639;5;puerta de toledo;Avería;3
+40,45944241;-3,645820626;4;esperanza;Avería;3
+40,46799398;-3,64867458;8;pinar del rey;Avería;3
+40,44355627;-3,726795075;6;ciudad universitaria;Avería;3
+40,32897723;-3,77154457;12;leganes central;Avería;3
+40,48013418;-3,666771657;4;pinar de chamartin;Avería;2
+40,40522132;-3,641813751;9;artilleros;Avería;2
+40,34984227;-3,807202285;10;joaquin vilumbrales;Avería;2
+40,41776487;-3,52718476;7;henares;Avería;2
+40,37238217;-3,618850589;1;congosto;Avería;2
+40,33663272;-3,74018614;12;el carrascal;Avería;2
+40,28267346;-3,798909375;12;fuenlabrada central;Avería;2
+40,47688245;-3,703170088;9;barrio del pilar;Avería;2
+40,39480242;-3,768135981;5;campamento;Avería;2
+40,29680487;-3,837691914;12;loranca;Avería;2
+40,38363333;-3,783925425;10;aviacion espanola;Avería;2
+40,38709383;-3,706901013;6;usera;Avería;2
+40,4315547;-3,679660945;9;nunez de balboa;Avería;2
+40,45158127;-3,690382074;10;santiago bernabeu;Avería;2
+40,36676994;-3,547281483;9;rivas urbanizaciones;Avería;2
+40,47209592;-3,682594013;10;chamartin;Avería;1
+40,40658715;-3,689379999;1;atocha renfe;Avería;1
+40,47592185;-3,715830364;7;penagrande;Avería;1
+40,44084415;-3,626847452;5;suanzes;Avería;1
+40,32167717;-3,864894496;12;pradillo;Avería;1
+40,42361458;-3,639147589;2;la almudena;Avería;1
+40,32849815;-3,86354544;12;mostoles central;Avería;1
+40,44374396;-3,617004735;5;torre arias;Avería;1
+40,41680989;-3,703263296;3;sol;Calor;122
+40,45778943;-3,587529856;5;alameda de osuna;Calor;50
+40,402066;-3,673860954;6;pacifico;Calor;45
+40,36006609;-3,593169841;1;valdecarros;Calor;41
+40,41805042;-3,699256783;2;sevilla;Calor;40
+40,42008355;-3,70566668;5;callao;Calor;37
+40,40884785;-3,692490889;1;atocha;Calor;36
+40,46689497;-3,689135166;9;plaza de castilla;Calor;31
+40,48013418;-3,666771657;4;pinar de chamartin;Calor;28
+40,4032369;-3,761019693;5;casa de campo;Calor;28
+40,42598825;-3,70208572;10;tribunal;Calor;27
+40,42828317;-3,695024413;5;alonso martinez;Calor;22
+40,42292518;-3,697621571;5;chueca;Calor;22
+40,44696838;-3,703872359;6;cuatro caminos;Calor;22
+40,43496257;-3,719451604;6;moncloa;Calor;19
+40,43294536;-3,672942974;6;diego de leon;Calor;18
+40,43803288;-3,67647195;9;avenida de america;Calor;18
+40,42099313;-3,720328287;R;principe pio;Calor;17
+40,43052478;-3,715961816;6;arguelles;Calor;16
+40,49141701;-3,715865195;9;mirasierra;Calor;15
+40,44655108;-3,692417814;8;nuevos ministerios;Calor;14
+40,41127543;-3,708167584;5;la latina;Calor;12
+40,4315547;-3,679660945;9;nunez de balboa;Calor;12
+40,46943109;-3,695884906;9;ventilla;Calor;12
+40,40131345;-3,595982863;9;puerta de arganda;Calor;11
+40,41234187;-3,70466648;1;tirso de molina;Calor;11
+40,43565725;-3,642834065;7;pueblo nuevo;Calor;10
+40,46389235;-3,616210057;8;campo de las naciones;Calor;10
+40,42374407;-3,60331266;2;las rosas;Calor;10
+40,39735347;-3,715963819;5;marques de vadillo;Calor;9
+40,46380536;-3,635600585;4;canillas;Calor;9
+40,43315383;-3,689545132;5;ruben dario;Calor;9
+40,41808841;-3,709288075;R;opera;Calor;9
+40,38731499;-3,63951123;1;miguel hernandez;Calor;8
+40,47209592;-3,682594013;10;chamartin;Calor;8
+40,3412242;-3,711990999;3;villaverde alto;Calor;8
+40,38781938;-3,744881666;5;carabanchel;Calor;7
+40,55976347;-3,611465764;10;hospital infanta sofia;Calor;7
+40,44418666;-3,674823834;4;prosperidad;Calor;7
+40,43491697;-3,698983459;1;iglesia;Calor;6
+40,34542678;-3,81249526;12;puerta del sur;Calor;6
+40,3969754;-3,774618022;10;colonia jardin;Calor;6
+40,41502821;-3,669523104;9;sainz de baranda;Calor;6
+40,38459969;-3,718373531;6;plaza eliptica;Calor;6
+40,38709383;-3,706901013;6;usera;Calor;6
+40,38846483;-3,731268776;6;oporto;Calor;6
+40,4288498;-3,701148774;4;bilbao;Calor;6
+40,43804349;-3,638164095;5;ciudad lineal;Calor;6
+40,41998089;-3,701811088;5;gran via;Calor;6
+40,39553657;-3,664145357;1;nueva numancia;Calor;5
+40,43825029;-3,691495504;7;gregorio maranon;Calor;5
+40,38976976;-3,645225289;1;alto del arenal;Calor;5
+40,44084415;-3,626847452;5;suanzes;Calor;4
+40,42417286;-3,68024678;9;principe de vergara;Calor;4
+40,43357791;-3,647365171;5;quintana;Calor;4
+40,42288945;-3,668599057;6;o'donnell;Calor;4
+40,40658715;-3,689379999;1;atocha renfe;Calor;4
+40,39115667;-3,695054959;6;legazpi;Calor;4
+40,40259796;-3,711388079;5;piramides;Calor;4
+40,42340997;-3,711206492;3;plaza de espana;Calor;4
+40,37238217;-3,618850589;1;congosto;Calor;3
+40,39819293;-3,669061709;1;puente de vallecas;Calor;3
+40,50120067;-3,695209955;10;tres olivos;Calor;3
+40,44355627;-3,726795075;6;ciudad universitaria;Calor;3
+40,39309596;-3,68864147;6;arganzuela-planetario;Calor;3
+40,41641024;-3,735637723;10;lago;Calor;3
+40,48501196;-3,723053454;7;lacoma;Calor;3
+40,44643115;-3,719432375;6;metropolitano;Calor;3
+40,40387025;-3,706652237;5;acacias;Calor;3
+40,42790393;-3,66921458;6;manuel becerra;Calor;3
+40,41246409;-3,699375747;1;anton martin;Calor;3
+40,4099207;-3,738937778;6;alto de extremadura;Calor;2
+40,40785623;-3,753116589;10;batan;Calor;2
+40,45748953;-3,676950119;9;colombia;Calor;2
+40,42661418;-3,650528502;2;la elipa;Calor;2
+40,39537425;-3,678142252;6;mendez alvaro;Calor;2
+40,4202995;-3,686254794;2;retiro;Calor;2
+40,40051048;-3,635122751;9;pavones;Calor;2
+40,40444766;-3,680990951;1;menendez pelayo;Calor;2
+40,43088219;-3,663608751;5;ventas;Calor;1
+40,38406695;-3,69797452;3;almendrales;Calor;1
+40,4387009;-3,704894461;7;canal;Calor;1
+40,45158127;-3,690382074;10;santiago bernabeu;Calor;1
+40,41838981;-3,678585464;9;ibiza;Calor;1
+40,40696897;-3,670409628;6;conde de casal;Calor;1
+40,38363333;-3,783925425;10;aviacion espanola;Calor;1
+40,38884283;-3,739826651;5;vista alegre;Calor;1
+40,44379;-3,684064551;6;republica argentina;Calor;1
+40,42543239;-3,686637037;4;serrano;Calor;1
+40,42503098;-3,682919606;4;velazquez;Calor;1
+40,40511968;-3,702681998;3;embajadores;Calor;1
+40,44942144;-3,608164962;5;canillejas;Calor;1
+40,42541534;-3,691010388;4;colon;Calor;1
+40,43906103;-3,71374136;7;islas filipinas;Calor;1
+40,42480536;-3,676858101;4;goya;Calor;1
+40,453468;-3,594013972;5;el capricho;Calor;1
+40,41680989;-3,703263296;3;sol;Controles;478
+40,39115667;-3,695054959;6;legazpi;Controles;143
+40,46689497;-3,689135166;9;plaza de castilla;Controles;141
+40,42008355;-3,70566668;5;callao;Controles;124
+40,44655108;-3,692417814;8;nuevos ministerios;Controles;123
+40,43294536;-3,672942974;6;diego de leon;Controles;115
+40,38846483;-3,731268776;6;oporto;Controles;109
+40,42340997;-3,711206492;3;plaza de espana;Controles;95
+40,402066;-3,673860954;6;pacifico;Controles;93
+40,41998089;-3,701811088;5;gran via;Controles;90
+40,42828317;-3,695024413;5;alonso martinez;Controles;85
+40,42480536;-3,676858101;4;goya;Controles;76
+40,41808841;-3,709288075;R;opera;Controles;67
+40,45427981;-3,703028755;1;estrecho;Controles;66
+40,44696838;-3,703872359;6;cuatro caminos;Controles;58
+40,42099313;-3,720328287;R;principe pio;Controles;55
+40,34542678;-3,81249526;12;puerta del sur;Controles;54
+40,36006609;-3,593169841;1;valdecarros;Controles;47
+40,42417286;-3,68024678;9;principe de vergara;Controles;47
+40,42598825;-3,70208572;10;tribunal;Controles;45
+40,3969754;-3,774618022;10;colonia jardin;Controles;41
+40,39270021;-3,741000009;6;carpetana;Controles;41
+40,42790393;-3,66921458;6;manuel becerra;Controles;40
+40,43088219;-3,663608751;5;ventas;Controles;40
+40,38562558;-3,760809659;5;aluche;Controles;40
+40,38709383;-3,706901013;6;usera;Controles;40
+40,43357791;-3,647365171;5;quintana;Controles;39
+40,43565725;-3,642834065;7;pueblo nuevo;Controles;38
+40,43052478;-3,715961816;6;arguelles;Controles;37
+40,40511968;-3,702681998;3;embajadores;Controles;35
+40,41502821;-3,669523104;9;sainz de baranda;Controles;35
+40,43496257;-3,719451604;6;moncloa;Controles;35
+40,48013418;-3,666771657;4;pinar de chamartin;Controles;35
+40,4032369;-3,761019693;5;casa de campo;Controles;34
+40,46055195;-3,698258347;1;tetuan;Controles;33
+40,4288498;-3,701148774;4;bilbao;Controles;33
+40,38459969;-3,718373531;6;plaza eliptica;Controles;28
+40,42374407;-3,60331266;2;las rosas;Controles;26
+40,40884785;-3,692490889;1;atocha;Controles;25
+40,4315547;-3,679660945;9;nunez de balboa;Controles;25
+40,40131345;-3,595982863;9;puerta de arganda;Controles;20
+40,39553657;-3,664145357;1;nueva numancia;Controles;20
+40,43804349;-3,638164095;5;ciudad lineal;Controles;20
+40,50120067;-3,695209955;10;tres olivos;Controles;19
+40,43188961;-3,657582371;5;el carmen;Controles;18
+40,39819293;-3,669061709;1;puente de vallecas;Controles;18
+40,39537425;-3,678142252;6;mendez alvaro;Controles;17
+40,45033211;-3,703317813;1;alvarado;Controles;16
+40,47209592;-3,682594013;10;chamartin;Controles;16
+40,49141701;-3,715865195;9;mirasierra;Controles;16
+40,37769863;-3,791525486;10;cuatro vientos;Controles;16
+40,38363333;-3,783925425;10;aviacion espanola;Controles;15
+40,39265787;-3,658685217;1;portazgo;Controles;15
+40,42288945;-3,668599057;6;o'donnell;Controles;15
+40,4099207;-3,738937778;6;alto de extremadura;Controles;14
+40,3412242;-3,711990999;3;villaverde alto;Controles;14
+40,40051048;-3,635122751;9;pavones;Controles;14
+40,43803288;-3,67647195;9;avenida de america;Controles;14
+40,49510213;-3,725899512;7;pitis;Controles;14
+40,45842219;-3,689862385;10;cuzco;Controles;13
+40,4387009;-3,704894461;7;canal;Controles;13
+40,41234187;-3,70466648;1;tirso de molina;Controles;12
+40,46441802;-3,695066472;1;valdeacederas;Controles;11
+40,45158127;-3,690382074;10;santiago bernabeu;Controles;11
+40,40444766;-3,680990951;1;menendez pelayo;Controles;10
+40,38406695;-3,69797452;3;almendrales;Controles;10
+40,42483858;-3,707425685;2;noviciado;Controles;10
+40,39335085;-3,723615636;5;urgel;Controles;10
+40,41127543;-3,708167584;5;la latina;Controles;8
+40,41246409;-3,699375747;1;anton martin;Controles;8
+40,39735347;-3,715963819;5;marques de vadillo;Controles;8
+40,40658715;-3,689379999;1;atocha renfe;Controles;8
+40,45144195;-3,677384735;9;concha espina;Controles;8
+40,45778943;-3,587529856;5;alameda de osuna;Controles;8
+40,42798632;-3,615469611;7;san blas;Controles;8
+40,41922043;-3,6949665;2;banco de espana;Controles;8
+40,41389578;-3,727241961;6;puerta del angel;Controles;7
+40,42543239;-3,686637037;4;serrano;Controles;7
+40,44632219;-3,712296983;7;guzman el bueno;Controles;7
+40,3999006;-3,694202157;3;delicias;Controles;7
+40,44084415;-3,626847452;5;suanzes;Controles;6
+40,4114691;-3,661791538;9;estrella;Controles;6
+40,43825029;-3,691495504;7;gregorio maranon;Controles;6
+40,42373097;-3,561193233;7;coslada central;Controles;6
+40,43906103;-3,71374136;7;islas filipinas;Controles;6
+40,30366586;-3,447526069;9;arganda del rey;Controles;6
+40,44355627;-3,726795075;6;ciudad universitaria;Controles;6
+40,40785623;-3,753116589;10;batan;Controles;6
+40,43491697;-3,698983459;1;iglesia;Controles;5
+40,42131274;-3,707966348;2;santo domingo;Controles;5
+40,45748953;-3,676950119;9;colombia;Controles;5
+40,43298142;-3,607887135;7;las musas;Controles;5
+40,4284215;-3,633310372;7;garcia noblejas;Controles;5
+40,37359506;-3,739106229;11;san francisco;Controles;5
+40,41776487;-3,52718476;7;henares;Controles;5
+40,50832569;-3,669446792;10;las tablas;Controles;5
+40,42966004;-3,705684245;4;san bernardo;Controles;5
+40,44191919;-3,701591124;1;rios rosas;Controles;5
+40,28267346;-3,798909375;12;fuenlabrada central;Controles;5
+40,40421032;-3,608865637;9;vicalvaro;Controles;5
+40,3992286;-3,744300367;6;laguna;Controles;4
+40,47446805;-3,639582355;4;san lorenzo;Controles;4
+40,37018557;-3,613471109;1;la gavia;Controles;4
+40,34984227;-3,807202285;10;joaquin vilumbrales;Controles;4
+40,38884283;-3,739826651;5;vista alegre;Controles;4
+40,38781938;-3,744881666;5;carabanchel;Controles;4
+40,4030716;-3,694234731;3;palos de la frontera;Controles;4
+40,47686816;-3,662905164;4;manoteras;Controles;4
+40,54102004;-3,63739262;10;marques de la valdavia;Controles;4
+40,38690336;-3,723134268;6;opanel;Controles;4
+40,45582547;-3,656188128;4;arturo soria;Controles;4
+40,47536837;-3,652579643;4;hortaleza;Controles;3
+40,43837479;-3,699255084;7;alonso cano;Controles;3
+40,4000436;-3,621566682;9;valdebernardo;Controles;3
+40,47680812;-3,676377282;1;bambu;Controles;3
+40,44643115;-3,719432375;6;metropolitano;Controles;3
+40,44942144;-3,608164962;5;canillejas;Controles;3
+40,42661418;-3,650528502;2;la elipa;Controles;3
+40,38216153;-3,624724522;1;sierra de guadalupe;Controles;2
+40,40381173;-3,60240401;9;san cipriano;Controles;2
+40,4202995;-3,686254794;2;retiro;Controles;2
+40,44824478;-3,667918658;4;alfonso xiii;Controles;2
+40,35008254;-3,831780176;12;alcorcon central;Controles;2
+40,38976976;-3,645225289;1;alto del arenal;Controles;2
+40,45647473;-3,712392398;7;francos rodriguez;Controles;2
+40,40259796;-3,711388079;5;piramides;Controles;2
+40,42798532;-3,625725988;7;simancas;Controles;2
+40,39480242;-3,768135981;5;campamento;Controles;2
+40,40696897;-3,670409628;6;conde de casal;Controles;2
+40,29680487;-3,837691914;12;loranca;Controles;2
+40,47576967;-3,582531131;8;barajas;Controles;2
+40,49507987;-3,692833845;10;fuencarral;Controles;2
+40,44418666;-3,674823834;4;prosperidad;Controles;2
+40,55976347;-3,611465764;10;hospital infanta sofia;Controles;2
+40,35089133;-3,692651338;3;villaverde bajo cruce;Controles;2
+40,37959432;-3,621308021;1;villa de vallecas;Controles;2
+40,43909238;-3,652004716;7;barrio de la concepcion;Controles;2
+40,4693849;-3,638330918;8;mar de cristal;Controles;1
+40,37197192;-3,751915969;11;carabanchel alto;Controles;1
+40,38438197;-3,751217478;5;eugenia de montijo;Controles;1
+40,35957926;-3,693635297;3;ciudad de los angeles;Controles;1
+40,32897723;-3,77154457;12;leganes central;Controles;1
+40,40703245;-3,711057639;5;puerta de toledo;Controles;1
+40,31179969;-3,722250155;12;juan de la cierva;Controles;1
+40,41024127;-3,652739772;9;vinateros;Controles;1
+40,44379;-3,684064551;6;republica argentina;Controles;1
+40,42541534;-3,691010388;4;colon;Controles;1
+40,38731499;-3,63951123;1;miguel hernandez;Controles;1
+40,41641024;-3,735637723;10;lago;Controles;1
+40,28683638;-3,786982314;12;parque de los estados;Controles;1
+40,55048065;-3,646883392;10;manuel de falla;Controles;1
+40,43019861;-3,641060843;7;ascao;Controles;1
+40,44374396;-3,617004735;5;torre arias;Controles;1
+40,37502557;-3,69585511;3;hospital 12 de octubre;Controles;1
+40,40509579;-3,745343139;6;lucero;Controles;1
+40,43933732;-3,67215776;7;cartagena;Controles;1
+40,44426588;-3,678220657;9;cruz del rayo;Controles;1
+40,47688245;-3,703170088;9;barrio del pilar;Controles;1
+40,42099313;-3,720328287;R;principe pio;Inundación;107
+40,40850881;-3,700914061;3;lavapies;Inundación;102
+40,44696838;-3,703872359;6;cuatro caminos;Inundación;49
+40,40387025;-3,706652237;5;acacias;Inundación;48
+40,38846483;-3,731268776;6;oporto;Inundación;42
+40,44355627;-3,726795075;6;ciudad universitaria;Inundación;40
+40,41808841;-3,709288075;R;opera;Inundación;29
+40,32849815;-3,86354544;12;mostoles central;Inundación;26
+40,42480536;-3,676858101;4;goya;Inundación;26
+40,4387009;-3,704894461;7;canal;Inundación;23
+40,39735347;-3,715963819;5;marques de vadillo;Inundación;15
+40,39115667;-3,695054959;6;legazpi;Inundación;11
+40,43804349;-3,638164095;5;ciudad lineal;Inundación;11
+40,4202995;-3,686254794;2;retiro;Inundación;10
+40,42966004;-3,705684245;4;san bernardo;Inundación;9
+40,38709383;-3,706901013;6;usera;Inundación;9
+40,39537425;-3,678142252;6;mendez alvaro;Inundación;9
+40,38690336;-3,723134268;6;opanel;Inundación;8
+40,41234187;-3,70466648;1;tirso de molina;Inundación;8
+40,39155881;-3,653914345;1;buenos aires;Inundación;7
+40,41502821;-3,669523104;9;sainz de baranda;Inundación;7
+40,41680989;-3,703263296;3;sol;Inundación;7
+40,43496257;-3,719451604;6;moncloa;Inundación;7
+40,40703245;-3,711057639;5;puerta de toledo;Inundación;7
+40,42790393;-3,66921458;6;manuel becerra;Inundación;6
+40,402066;-3,673860954;6;pacifico;Inundación;6
+40,42598825;-3,70208572;10;tribunal;Inundación;6
+40,29680487;-3,837691914;12;loranca;Inundación;6
+40,38216153;-3,624724522;1;sierra de guadalupe;Inundación;6
+40,40511968;-3,702681998;3;embajadores;Inundación;5
+40,45748953;-3,676950119;9;colombia;Inundación;5
+40,47536837;-3,652579643;4;hortaleza;Inundación;5
+40,43019861;-3,641060843;7;ascao;Inundación;5
+40,45033211;-3,703317813;1;alvarado;Inundación;4
+40,46689497;-3,689135166;9;plaza de castilla;Inundación;4
+40,41776487;-3,52718476;7;henares;Inundación;4
+40,37359506;-3,739106229;11;san francisco;Inundación;4
+40,43944441;-3,662973689;7;parque de las avenidas;Inundación;4
+40,4288498;-3,701148774;4;bilbao;Inundación;4
+40,42828317;-3,695024413;5;alonso martinez;Inundación;4
+40,40696897;-3,670409628;6;conde de casal;Inundación;3
+40,39335085;-3,723615636;5;urgel;Inundación;3
+40,36006609;-3,593169841;1;valdecarros;Inundación;2
+40,44655108;-3,692417814;8;nuevos ministerios;Inundación;2
+40,46482187;-3,715983801;7;valdezarza;Inundación;2
+40,43803288;-3,67647195;9;avenida de america;Inundación;2
+40,42008355;-3,70566668;5;callao;Inundación;2
+40,41641024;-3,735637723;10;lago;Inundación;2
+40,38406695;-3,69797452;3;almendrales;Inundación;2
+40,40884785;-3,692490889;1;atocha;Inundación;2
+40,47209592;-3,682594013;10;chamartin;Inundación;2
+40,45582547;-3,656188128;4;arturo soria;Inundación;2
+40,40259796;-3,711388079;5;piramides;Inundación;2
+40,44643115;-3,719432375;6;metropolitano;Inundación;1
+40,28683638;-3,786982314;12;parque de los estados;Inundación;1
+40,41805042;-3,699256783;2;sevilla;Inundación;1
+40,40509579;-3,745343139;6;lucero;Inundación;1
+40,47021658;-3,717704371;7;antonio machado;Inundación;1
+40,38562558;-3,760809659;5;aluche;Inundación;1
+40,45427981;-3,703028755;1;estrecho;Inundación;1
+40,43294536;-3,672942974;6;diego de leon;Inundación;1
+40,40658715;-3,689379999;1;atocha renfe;Inundación;1
+40,31862428;-3,709858586;12;el casar;Inundación;1
+40,37959432;-3,621308021;1;villa de vallecas;Inundación;1
+40,44084415;-3,626847452;5;suanzes;Inundación;1
+40,45944241;-3,645820626;4;esperanza;Inundación;1
+40,43088219;-3,663608751;5;ventas;Inundación;1
+40,34542678;-3,81249526;12;puerta del sur;Inundación;1
+40,32897723;-3,77154457;12;leganes central;Inundación;1
+40,38731499;-3,63951123;1;miguel hernandez;Inundación;1
+40,42249363;-3,569198797;7;barrio del puerto;Inundación;1
+40,50832569;-3,669446792;10;las tablas;Inundación;1
+40,44824478;-3,667918658;4;alfonso xiii;Inundación;1
+40,37238217;-3,618850589;1;congosto;Inundación;1
+40,41680989;-3,703263296;3;sol;Lento;749
+40,43496257;-3,719451604;6;moncloa;Lento;314
+40,41808841;-3,709288075;R;opera;Lento;248
+40,42099313;-3,720328287;R;principe pio;Lento;237
+40,4032369;-3,761019693;5;casa de campo;Lento;205
+40,42008355;-3,70566668;5;callao;Lento;189
+40,402066;-3,673860954;6;pacifico;Lento;189
+40,39115667;-3,695054959;6;legazpi;Lento;185
+40,46689497;-3,689135166;9;plaza de castilla;Lento;182
+40,44655108;-3,692417814;8;nuevos ministerios;Lento;175
+40,42598825;-3,70208572;10;tribunal;Lento;157
+40,43052478;-3,715961816;6;arguelles;Lento;150
+40,38562558;-3,760809659;5;aluche;Lento;147
+40,41998089;-3,701811088;5;gran via;Lento;147
+40,42828317;-3,695024413;5;alonso martinez;Lento;142
+40,40884785;-3,692490889;1;atocha;Lento;140
+40,50120067;-3,695209955;10;tres olivos;Lento;132
+40,43825029;-3,691495504;7;gregorio maranon;Lento;126
+40,47209592;-3,682594013;10;chamartin;Lento;120
+40,4288498;-3,701148774;4;bilbao;Lento;119
+40,43294536;-3,672942974;6;diego de leon;Lento;118
+40,40387025;-3,706652237;5;acacias;Lento;118
+40,43803288;-3,67647195;9;avenida de america;Lento;110
+40,42480536;-3,676858101;4;goya;Lento;105
+40,39735347;-3,715963819;5;marques de vadillo;Lento;100
+40,40131345;-3,595982863;9;puerta de arganda;Lento;99
+40,36006609;-3,593169841;1;valdecarros;Lento;97
+40,38846483;-3,731268776;6;oporto;Lento;96
+40,41502821;-3,669523104;9;sainz de baranda;Lento;95
+40,42340997;-3,711206492;3;plaza de espana;Lento;92
+40,34542678;-3,81249526;12;puerta del sur;Lento;85
+40,41127543;-3,708167584;5;la latina;Lento;84
+40,39537425;-3,678142252;6;mendez alvaro;Lento;82
+40,43088219;-3,663608751;5;ventas;Lento;81
+40,45778943;-3,587529856;5;alameda de osuna;Lento;78
+40,44696838;-3,703872359;6;cuatro caminos;Lento;77
+40,3992286;-3,744300367;6;laguna;Lento;73
+40,4315547;-3,679660945;9;nunez de balboa;Lento;70
+40,40696897;-3,670409628;6;conde de casal;Lento;70
+40,3969754;-3,774618022;10;colonia jardin;Lento;64
+40,40511968;-3,702681998;3;embajadores;Lento;64
+40,44632219;-3,712296983;7;guzman el bueno;Lento;62
+40,43565725;-3,642834065;7;pueblo nuevo;Lento;62
+40,43357791;-3,647365171;5;quintana;Lento;59
+40,44355627;-3,726795075;6;ciudad universitaria;Lento;59
+40,43804349;-3,638164095;5;ciudad lineal;Lento;57
+40,4387009;-3,704894461;7;canal;Lento;57
+40,40785623;-3,753116589;10;batan;Lento;56
+40,42292518;-3,697621571;5;chueca;Lento;56
+40,40850881;-3,700914061;3;lavapies;Lento;53
+40,43188961;-3,657582371;5;el carmen;Lento;50
+40,48013418;-3,666771657;4;pinar de chamartin;Lento;50
+40,44084415;-3,626847452;5;suanzes;Lento;49
+40,45748953;-3,676950119;9;colombia;Lento;48
+40,49141701;-3,715865195;9;mirasierra;Lento;47
+40,44643115;-3,719432375;6;metropolitano;Lento;46
+40,43315383;-3,689545132;5;ruben dario;Lento;45
+40,40259796;-3,711388079;5;piramides;Lento;45
+40,45842219;-3,689862385;10;cuzco;Lento;45
+40,45158127;-3,690382074;10;santiago bernabeu;Lento;44
+40,41234187;-3,70466648;1;tirso de molina;Lento;43
+40,41641024;-3,735637723;10;lago;Lento;41
+40,30366586;-3,447526069;9;arganda del rey;Lento;38
+40,39056859;-3,765354365;5;empalme;Lento;37
+40,38781938;-3,744881666;5;carabanchel;Lento;36
+40,39155881;-3,653914345;1;buenos aires;Lento;36
+40,40658715;-3,689379999;1;atocha renfe;Lento;36
+40,46055195;-3,698258347;1;tetuan;Lento;36
+40,38459969;-3,718373531;6;plaza eliptica;Lento;34
+40,47688245;-3,703170088;9;barrio del pilar;Lento;34
+40,38438197;-3,751217478;5;eugenia de montijo;Lento;33
+40,43491697;-3,698983459;1;iglesia;Lento;33
+40,28574945;-3,816427073;12;hospital de fuenlabrada;Lento;32
+40,38884283;-3,739826651;5;vista alegre;Lento;30
+40,50832569;-3,669446792;10;las tablas;Lento;30
+40,45427981;-3,703028755;1;estrecho;Lento;29
+40,4693849;-3,638330918;8;mar de cristal;Lento;29
+40,43321778;-3,704342027;2;quevedo;Lento;28
+40,42790393;-3,66921458;6;manuel becerra;Lento;27
+40,42661418;-3,650528502;2;la elipa;Lento;27
+40,38709383;-3,706901013;6;usera;Lento;26
+40,39819293;-3,669061709;1;puente de vallecas;Lento;26
+40,41805042;-3,699256783;2;sevilla;Lento;26
+40,49510213;-3,725899512;7;pitis;Lento;25
+40,42966004;-3,705684245;4;san bernardo;Lento;25
+40,42417286;-3,68024678;9;principe de vergara;Lento;25
+40,3413421;-3,524799763;9;rivas futura;Lento;25
+40,42374407;-3,60331266;2;las rosas;Lento;24
+40,43339118;-3,600156651;7;estadio olimpico;Lento;24
+40,44374396;-3,617004735;5;torre arias;Lento;20
+40,55976347;-3,611465764;10;hospital infanta sofia;Lento;20
+40,39480242;-3,768135981;5;campamento;Lento;20
+40,51553522;-3,662778266;10;ronda de la comunicacion;Lento;20
+40,4000436;-3,621566682;9;valdebernardo;Lento;20
+40,37769863;-3,791525486;10;cuatro vientos;Lento;20
+40,4114691;-3,661791538;9;estrella;Lento;18
+40,39265787;-3,658685217;1;portazgo;Lento;17
+40,41024127;-3,652739772;9;vinateros;Lento;17
+40,44942144;-3,608164962;5;canillejas;Lento;17
+40,44418666;-3,674823834;4;prosperidad;Lento;16
+40,38731499;-3,63951123;1;miguel hernandez;Lento;16
+40,40703245;-3,711057639;5;puerta de toledo;Lento;16
+40,41389578;-3,727241961;6;puerta del angel;Lento;15
+40,44824478;-3,667918658;4;alfonso xiii;Lento;15
+40,40444766;-3,680990951;1;menendez pelayo;Lento;15
+40,42541534;-3,691010388;4;colon;Lento;15
+40,38216153;-3,624724522;1;sierra de guadalupe;Lento;15
+40,41776487;-3,52718476;7;henares;Lento;15
+40,40051048;-3,635122751;9;pavones;Lento;14
+40,39335085;-3,723615636;5;urgel;Lento;14
+40,46441802;-3,695066472;1;valdeacederas;Lento;13
+40,38363333;-3,783925425;10;aviacion espanola;Lento;13
+40,34984227;-3,807202285;10;joaquin vilumbrales;Lento;13
+40,3999006;-3,694202157;3;delicias;Lento;13
+40,40509579;-3,745343139;6;lucero;Lento;13
+40,49507987;-3,692833845;10;fuencarral;Lento;13
+40,44191919;-3,701591124;1;rios rosas;Lento;13
+40,42708106;-3,713414292;3;ventura rodriguez;Lento;12
+40,32167717;-3,864894496;12;pradillo;Lento;12
+40,50525138;-3,695759283;10;montecarmelo;Lento;12
+40,36322252;-3,599533893;1;las suertes;Lento;12
+40,31652217;-3,874715035;12;hospital de mostoles;Lento;12
+40,36676994;-3,547281483;9;rivas urbanizaciones;Lento;12
+40,41922043;-3,6949665;2;banco de espana;Lento;11
+40,41246409;-3,699375747;1;anton martin;Lento;11
+40,29680487;-3,837691914;12;loranca;Lento;11
+40,46799398;-3,64867458;8;pinar del rey;Lento;10
+40,3412242;-3,711990999;3;villaverde alto;Lento;10
+40,4099207;-3,738937778;6;alto de extremadura;Lento;10
+40,39270021;-3,741000009;6;carpetana;Lento;10
+40,45647473;-3,712392398;7;francos rodriguez;Lento;10
+40,46943109;-3,695884906;9;ventilla;Lento;10
+40,40522132;-3,641813751;9;artilleros;Lento;10
+40,42514595;-3,547931168;7;la rambla;Lento;9
+40,48465763;-3,707522399;9;herrera oria;Lento;9
+40,43019861;-3,641060843;7;ascao;Lento;9
+40,46482187;-3,715983801;7;valdezarza;Lento;9
+40,45033211;-3,703317813;1;alvarado;Lento;9
+40,45144195;-3,677384735;9;concha espina;Lento;9
+40,30992368;-3,734033826;12;getafe central;Lento;9
+40,30902581;-3,864026997;12;manuela malasana;Lento;8
+40,28267346;-3,798909375;12;fuenlabrada central;Lento;8
+40,41760498;-3,534538705;7;hospital del henares;Lento;8
+40,41838981;-3,678585464;9;ibiza;Lento;8
+40,42131274;-3,707966348;2;santo domingo;Lento;8
+40,453468;-3,594013972;5;el capricho;Lento;8
+40,37018557;-3,613471109;1;la gavia;Lento;7
+40,42288945;-3,668599057;6;o'donnell;Lento;7
+40,44379;-3,684064551;6;republica argentina;Lento;7
+40,47536837;-3,652579643;4;hortaleza;Lento;7
+40,43906103;-3,71374136;7;islas filipinas;Lento;7
+40,4030716;-3,694234731;3;palos de la frontera;Lento;7
+40,45582547;-3,656188128;4;arturo soria;Lento;7
+40,44426588;-3,678220657;9;cruz del rayo;Lento;7
+40,46380536;-3,635600585;4;canillas;Lento;7
+40,36999055;-3,694177844;3;san fermin-orcasur;Lento;7
+40,31901513;-3,477452639;9;la poveda;Lento;7
+40,42798632;-3,615469611;7;san blas;Lento;7
+40,38976976;-3,645225289;1;alto del arenal;Lento;7
+40,43298142;-3,607887135;7;las musas;Lento;6
+40,47592185;-3,715830364;7;penagrande;Lento;6
+40,527595;-3,658599537;10;la granja;Lento;6
+40,47576967;-3,582531131;8;barajas;Lento;6
+40,39309596;-3,68864147;6;arganzuela-planetario;Lento;6
+40,37238217;-3,618850589;1;congosto;Lento;6
+40,41828551;-3,623514408;2;alsacia;Lento;6
+40,38690336;-3,723134268;6;opanel;Lento;5
+40,42483858;-3,707425685;2;noviciado;Lento;5
+40,32659791;-3,759428423;12;casa del reloj;Lento;5
+40,37959432;-3,621308021;1;villa de vallecas;Lento;5
+40,35008254;-3,831780176;12;alcorcon central;Lento;5
+40,4284215;-3,633310372;7;garcia noblejas;Lento;5
+40,32836977;-3,520602745;9;rivas vaciamadrid;Lento;5
+40,38406695;-3,69797452;3;almendrales;Lento;5
+40,40421032;-3,608865637;9;vicalvaro;Lento;5
+40,31862428;-3,709858586;12;el casar;Lento;5
+40,42503098;-3,682919606;4;velazquez;Lento;5
+40,35957926;-3,693635297;3;ciudad de los angeles;Lento;5
+40,39553657;-3,664145357;1;nueva numancia;Lento;4
+40,55048065;-3,646883392;10;manuel de falla;Lento;4
+40,32897723;-3,77154457;12;leganes central;Lento;4
+40,2887403;-3,756828055;12;arroyo culebro;Lento;4
+40,46864523;-3,569541072;8;aeropuerto t1 t2 t3;Lento;4
+40,43909238;-3,652004716;7;barrio de la concepcion;Lento;4
+40,47680812;-3,676377282;1;bambu;Lento;4
+40,46389235;-3,616210057;8;campo de las naciones;Lento;4
+40,28683638;-3,786982314;12;parque de los estados;Lento;3
+40,40381173;-3,60240401;9;san cipriano;Lento;3
+40,46300073;-3,675802349;9;pio xii;Lento;3
+40,53194913;-3,635571009;10;la moraleja;Lento;3
+40,3808283;-3,727911165;11;abrantes;Lento;3
+40,29324464;-3,745771724;12;conservatorio;Lento;2
+40,35089133;-3,692651338;3;villaverde bajo cruce;Lento;2
+40,34968066;-3,821201095;12;parque lisboa;Lento;2
+40,34589179;-3,849343418;12;parque oeste;Lento;2
+40,4202995;-3,686254794;2;retiro;Lento;2
+40,42293473;-3,525504056;7;jarama;Lento;2
+40,45353571;-3,661189841;4;avenida de la paz;Lento;2
+40,47686816;-3,662905164;4;manoteras;Lento;2
+40,43837479;-3,699255084;7;alonso cano;Lento;2
+40,45944241;-3,645820626;4;esperanza;Lento;2
+40,55441965;-3,635133831;10;baunatal;Lento;1
+40,42916516;-3,675416378;4;lista;Lento;1
+40,42361458;-3,639147589;2;la almudena;Lento;1
+40,30080781;-3,736641509;12;alonso de mendoza;Lento;1
+40,33663272;-3,74018614;12;el carrascal;Lento;1
+40,33615557;-3,775876343;12;san nicasio;Lento;1
+40,48501196;-3,723053454;7;lacoma;Lento;1
+40,35795351;-3,777833786;11;la fortuna;Lento;1
+40,42543239;-3,686637037;4;serrano;Lento;1
+40,47446805;-3,639582355;4;san lorenzo;Lento;1
+40,43944441;-3,662973689;7;parque de las avenidas;Lento;1
+40,42441178;-3,535417769;7;san fernando;Lento;1
+40,33474133;-3,752668031;12;julian besteiro;Lento;1
+40,37197192;-3,751915969;11;carabanchel alto;Lento;1
+40,37502557;-3,69585511;3;hospital 12 de octubre;Lento;1
+40,42373097;-3,561193233;7;coslada central;Lento;1
+40,42598825;-3,70208572;10;tribunal;Olor;196
+40,41680989;-3,703263296;3;sol;Olor;139
+40,40387025;-3,706652237;5;acacias;Olor;71
+40,41808841;-3,709288075;R;opera;Olor;49
+40,43804349;-3,638164095;5;ciudad lineal;Olor;46
+40,4288498;-3,701148774;4;bilbao;Olor;39
+40,46689497;-3,689135166;9;plaza de castilla;Olor;39
+40,41234187;-3,70466648;1;tirso de molina;Olor;37
+40,42008355;-3,70566668;5;callao;Olor;30
+40,40703245;-3,711057639;5;puerta de toledo;Olor;26
+40,38976976;-3,645225289;1;alto del arenal;Olor;22
+40,43565725;-3,642834065;7;pueblo nuevo;Olor;19
+40,40259796;-3,711388079;5;piramides;Olor;19
+40,43496257;-3,719451604;6;moncloa;Olor;17
+40,42099313;-3,720328287;R;principe pio;Olor;17
+40,41998089;-3,701811088;5;gran via;Olor;16
+40,402066;-3,673860954;6;pacifico;Olor;12
+40,37586075;-3,734171684;11;pan bendito;Olor;11
+40,43294536;-3,672942974;6;diego de leon;Olor;11
+40,41805042;-3,699256783;2;sevilla;Olor;11
+40,44696838;-3,703872359;6;cuatro caminos;Olor;8
+40,40421032;-3,608865637;9;vicalvaro;Olor;8
+40,40511968;-3,702681998;3;embajadores;Olor;7
+40,44632219;-3,712296983;7;guzman el bueno;Olor;7
+40,4032369;-3,761019693;5;casa de campo;Olor;6
+40,42828317;-3,695024413;5;alonso martinez;Olor;6
+40,41502821;-3,669523104;9;sainz de baranda;Olor;5
+40,40884785;-3,692490889;1;atocha;Olor;5
+40,44643115;-3,719432375;6;metropolitano;Olor;5
+40,42790393;-3,66921458;6;manuel becerra;Olor;5
+40,40658715;-3,689379999;1;atocha renfe;Olor;5
+40,36006609;-3,593169841;1;valdecarros;Olor;4
+40,34542678;-3,81249526;12;puerta del sur;Olor;4
+40,527595;-3,658599537;10;la granja;Olor;4
+40,47021658;-3,717704371;7;antonio machado;Olor;4
+40,41922043;-3,6949665;2;banco de espana;Olor;4
+40,38562558;-3,760809659;5;aluche;Olor;3
+40,45944241;-3,645820626;4;esperanza;Olor;3
+40,49141701;-3,715865195;9;mirasierra;Olor;3
+40,41127543;-3,708167584;5;la latina;Olor;3
+40,42340997;-3,711206492;3;plaza de espana;Olor;3
+40,44379;-3,684064551;6;republica argentina;Olor;3
+40,39537425;-3,678142252;6;mendez alvaro;Olor;3
+40,45778943;-3,587529856;5;alameda de osuna;Olor;3
+40,41024127;-3,652739772;9;vinateros;Olor;2
+40,42441178;-3,535417769;7;san fernando;Olor;2
+40,40522132;-3,641813751;9;artilleros;Olor;2
+40,31179969;-3,722250155;12;juan de la cierva;Olor;2
+40,4315547;-3,679660945;9;nunez de balboa;Olor;2
+40,46441802;-3,695066472;1;valdeacederas;Olor;2
+40,43825029;-3,691495504;7;gregorio maranon;Olor;2
+40,42374407;-3,60331266;2;las rosas;Olor;2
+40,42292518;-3,697621571;5;chueca;Olor;2
+40,40850881;-3,700914061;3;lavapies;Olor;2
+40,48013418;-3,666771657;4;pinar de chamartin;Olor;2
+40,3412242;-3,711990999;3;villaverde alto;Olor;2
+40,43188961;-3,657582371;5;el carmen;Olor;2
+40,47688245;-3,703170088;9;barrio del pilar;Olor;2
+40,43088219;-3,663608751;5;ventas;Olor;2
+40,44355627;-3,726795075;6;ciudad universitaria;Olor;2
+40,43052478;-3,715961816;6;arguelles;Olor;2
+40,42417286;-3,68024678;9;principe de vergara;Olor;2
+40,43933732;-3,67215776;7;cartagena;Olor;2
+40,39735347;-3,715963819;5;marques de vadillo;Olor;2
+40,4202995;-3,686254794;2;retiro;Olor;1
+40,48501196;-3,723053454;7;lacoma;Olor;1
+40,38781938;-3,744881666;5;carabanchel;Olor;1
+40,42483858;-3,707425685;2;noviciado;Olor;1
+40,46482187;-3,715983801;7;valdezarza;Olor;1
+40,42288945;-3,668599057;6;o'donnell;Olor;1
+40,42966004;-3,705684245;4;san bernardo;Olor;1
+40,43944441;-3,662973689;7;parque de las avenidas;Olor;1
+40,45158127;-3,690382074;10;santiago bernabeu;Olor;1
+40,39335085;-3,723615636;5;urgel;Olor;1
+40,43803288;-3,67647195;9;avenida de america;Olor;1
+40,39115667;-3,695054959;6;legazpi;Olor;1
+40,43019861;-3,641060843;7;ascao;Olor;1
+40,43339118;-3,600156651;7;estadio olimpico;Olor;1
+40,38846483;-3,731268776;6;oporto;Olor;1
+40,43491697;-3,698983459;1;iglesia;Olor;1
+40,41680989;-3,703263296;3;sol;Precio;15
+40,39115667;-3,695054959;6;legazpi;Precio;12
+40,42543239;-3,686637037;4;serrano;Precio;11
+40,45778943;-3,587529856;5;alameda de osuna;Precio;10
+40,402066;-3,673860954;6;pacifico;Precio;9
+40,42099313;-3,720328287;R;principe pio;Precio;8
+40,42790393;-3,66921458;6;manuel becerra;Precio;8
+40,43088219;-3,663608751;5;ventas;Precio;7
+40,4288498;-3,701148774;4;bilbao;Precio;7
+40,40509579;-3,745343139;6;lucero;Precio;6
+40,43496257;-3,719451604;6;moncloa;Precio;6
+40,42480536;-3,676858101;4;goya;Precio;5
+40,47576967;-3,582531131;8;barajas;Precio;5
+40,45158127;-3,690382074;10;santiago bernabeu;Precio;5
+40,45748953;-3,676950119;9;colombia;Precio;3
+40,41805042;-3,699256783;2;sevilla;Precio;3
+40,41808841;-3,709288075;R;opera;Precio;3
+40,47209592;-3,682594013;10;chamartin;Precio;3
+40,38459969;-3,718373531;6;plaza eliptica;Precio;3
+40,30366586;-3,447526069;9;arganda del rey;Precio;2
+40,40884785;-3,692490889;1;atocha;Precio;2
+40,43825029;-3,691495504;7;gregorio maranon;Precio;2
+40,43294536;-3,672942974;6;diego de leon;Precio;2
+40,42288945;-3,668599057;6;o'donnell;Precio;2
+40,46441802;-3,695066472;1;valdeacederas;Precio;2
+40,40131345;-3,595982863;9;puerta de arganda;Precio;2
+40,4032369;-3,761019693;5;casa de campo;Precio;1
+40,44824478;-3,667918658;4;alfonso xiii;Precio;1
+40,30902581;-3,864026997;12;manuela malasana;Precio;1
+40,42828317;-3,695024413;5;alonso martinez;Precio;1
+40,4387009;-3,704894461;7;canal;Precio;1
+40,38562558;-3,760809659;5;aluche;Precio;1
+40,40785623;-3,753116589;10;batan;Precio;1
+40,3969754;-3,774618022;10;colonia jardin;Precio;1
+40,44696838;-3,703872359;6;cuatro caminos;Precio;1
+40,42598825;-3,70208572;10;tribunal;Precio;1
+40,40259796;-3,711388079;5;piramides;Precio;1
+40,43357791;-3,647365171;5;quintana;Precio;1
+40,42340997;-3,711206492;3;plaza de espana;Precio;1
+40,41680989;-3,703263296;3;sol;Suciedad;67
+40,41234187;-3,70466648;1;tirso de molina;Suciedad;50
+40,44696838;-3,703872359;6;cuatro caminos;Suciedad;45
+40,41998089;-3,701811088;5;gran via;Suciedad;33
+40,41502821;-3,669523104;9;sainz de baranda;Suciedad;23
+40,4315547;-3,679660945;9;nunez de balboa;Suciedad;21
+40,46689497;-3,689135166;9;plaza de castilla;Suciedad;21
+40,43294536;-3,672942974;6;diego de leon;Suciedad;18
+40,42099313;-3,720328287;R;principe pio;Suciedad;18
+40,41922043;-3,6949665;2;banco de espana;Suciedad;16
+40,38976976;-3,645225289;1;alto del arenal;Suciedad;16
+40,402066;-3,673860954;6;pacifico;Suciedad;15
+40,34153659;-3,693191438;3;san cristobal;Suciedad;13
+40,50120067;-3,695209955;10;tres olivos;Suciedad;13
+40,42598825;-3,70208572;10;tribunal;Suciedad;12
+40,38781938;-3,744881666;5;carabanchel;Suciedad;12
+40,43565725;-3,642834065;7;pueblo nuevo;Suciedad;12
+40,42828317;-3,695024413;5;alonso martinez;Suciedad;12
+40,42340997;-3,711206492;3;plaza de espana;Suciedad;11
+40,48013418;-3,666771657;4;pinar de chamartin;Suciedad;8
+40,45427981;-3,703028755;1;estrecho;Suciedad;8
+40,42790393;-3,66921458;6;manuel becerra;Suciedad;8
+40,43803288;-3,67647195;9;avenida de america;Suciedad;7
+40,40444766;-3,680990951;1;menendez pelayo;Suciedad;7
+40,40696897;-3,670409628;6;conde de casal;Suciedad;7
+40,41805042;-3,699256783;2;sevilla;Suciedad;6
+40,42008355;-3,70566668;5;callao;Suciedad;6
+40,3999006;-3,694202157;3;delicias;Suciedad;6
+40,39735347;-3,715963819;5;marques de vadillo;Suciedad;5
+40,36006609;-3,593169841;1;valdecarros;Suciedad;5
+40,43804349;-3,638164095;5;ciudad lineal;Suciedad;5
+40,42483858;-3,707425685;2;noviciado;Suciedad;5
+40,39553657;-3,664145357;1;nueva numancia;Suciedad;5
+40,43052478;-3,715961816;6;arguelles;Suciedad;5
+40,43019861;-3,641060843;7;ascao;Suciedad;4
+40,37769863;-3,791525486;10;cuatro vientos;Suciedad;4
+40,39819293;-3,669061709;1;puente de vallecas;Suciedad;4
+40,4202995;-3,686254794;2;retiro;Suciedad;4
+40,38709383;-3,706901013;6;usera;Suciedad;4
+40,42374407;-3,60331266;2;las rosas;Suciedad;3
+40,43496257;-3,719451604;6;moncloa;Suciedad;3
+40,42131274;-3,707966348;2;santo domingo;Suciedad;3
+40,38846483;-3,731268776;6;oporto;Suciedad;3
+40,34542678;-3,81249526;12;puerta del sur;Suciedad;3
+40,44655108;-3,692417814;8;nuevos ministerios;Suciedad;3
+40,40884785;-3,692490889;1;atocha;Suciedad;3
+40,40259796;-3,711388079;5;piramides;Suciedad;3
+40,44632219;-3,712296983;7;guzman el bueno;Suciedad;3
+40,45748953;-3,676950119;9;colombia;Suciedad;2
+40,40511968;-3,702681998;3;embajadores;Suciedad;2
+40,42916516;-3,675416378;4;lista;Suciedad;2
+40,47680812;-3,676377282;1;bambu;Suciedad;2
+40,39115667;-3,695054959;6;legazpi;Suciedad;2
+40,42661418;-3,650528502;2;la elipa;Suciedad;2
+40,4387009;-3,704894461;7;canal;Suciedad;2
+40,4032369;-3,761019693;5;casa de campo;Suciedad;1
+40,46055195;-3,698258347;1;tetuan;Suciedad;1
+40,3992286;-3,744300367;6;laguna;Suciedad;1
+40,41127543;-3,708167584;5;la latina;Suciedad;1
+40,44942144;-3,608164962;5;canillejas;Suciedad;1
+40,42543239;-3,686637037;4;serrano;Suciedad;1
+40,39537425;-3,678142252;6;mendez alvaro;Suciedad;1
+40,40658715;-3,689379999;1;atocha renfe;Suciedad;1
+40,40387025;-3,706652237;5;acacias;Suciedad;1
+40,42288945;-3,668599057;6;o'donnell;Suciedad;1
+40,38459969;-3,718373531;6;plaza eliptica;Suciedad;1
+40,3412242;-3,711990999;3;villaverde alto;Suciedad;1
