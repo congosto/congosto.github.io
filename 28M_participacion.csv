@@ -2,9 +2,9 @@ Provincia_INE;porcentaje_participación
 Albacete;70,74
 Alicante/Alacant;64,42
 Almería;60,44
-Araba/Álava,60,12
+Araba/Álava;60,12
 Asturias;61,34
-Ávila,72;85
+Ávila:72,85
 Badajoz;72,27
 Balears, Illes;56,71
 Barcelona;55,31
@@ -14,7 +14,7 @@ Cantabria;70,39
 Castellón/Castelló;69,09
 Ceuta;57;21
 Ciudad Real;71,07
-Coruña; A,63,40
+Coruña A;63,40
 Cuenca;76,24
 Cáceres;73,06
 Cádiz;56,49
@@ -41,7 +41,7 @@ Pontevedra;64,46
 Rioja, La;72,24
 Salamanca;67,18
 Segovia;71,42
-Sevilla,61,77
+Sevilla;61,77
 Soria;67,84
 Tarragona;56,39
 Tenerife;58,3
